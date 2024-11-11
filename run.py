@@ -12,7 +12,7 @@ def running_lyrics():
         ("Lagu lama yang aku tahu", 0.2)
     ]
 
-    delay_line = [0.4, 0.6, 0.6, 0.6, 0.6]
+    delay_line = [0.4, 0.6, 0.6, 0.6, 0.6] #tempo antar lyrics
     
     print('''
           
